@@ -10,4 +10,4 @@ Originally inspired by the adidas.com launch of the yeezy boost oxford tan.
 Report them under the "issues" tab so that we can make the world a better place.
 
 ====================
-Website programmed entirely by [Luke Davis](http://luked.me/ "Luke Davis")
+Website programmed entirely by [Luke Davis](http://luked.me/ "Luke Davis") and hosted live on [luked.me/bdg](http://luked.me/bdg "luked.me/bdg")
